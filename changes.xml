@@ -23,7 +23,7 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
-    <release version="2.0.0" date="not released">
+    <release version="2.0.0" date="2022-01-07">
       <action type="update" dev="sseifert"><![CDATA[
         <b>Starting with version 2.0.0 only AEM 6.5 and AEMaaCS are supported.</b>
       ]]></action>
