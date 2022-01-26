@@ -31,6 +31,9 @@
         Update to nodejs-maven-plugin 3.0.6.
       </action>
       <action type="update" dev="sseifert">
+        Add Sling-Initial-Content Transformation Maven Plugin 1.1.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 42.
       </action>
     </release>
