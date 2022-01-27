@@ -23,12 +23,33 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
+    <release version="2.0.2" date="2022-01-27">
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.0.4.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to nodejs-maven-plugin 3.0.6.
+      </action>
+      <action type="update" dev="sseifert">
+        Add sling-initial-content-transform-maven-plugin 1.1.0.
+      </action>
+       <action type="update" dev="sseifert">
+        Update to cq-maven-plugin 1.1.4.
+      </action>
+       <action type="update" dev="sseifert">
+        Update to i18n-maven-plugin 1.2.2.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 42.
+      </action>
+    </release>
+
     <release version="2.0.0" date="2022-01-07">
       <action type="update" dev="sseifert"><![CDATA[
         <b>Starting with version 2.0.0 only AEM 6.5 and AEMaaCS are supported.</b>
       ]]></action>
       <action type="update" dev="sseifert"><![CDATA[
-        Update wcm.io Content Package Maven plugin 2.0.2. This version no longer supports building content packages, see <a href="https://wcm-io.atlassian.net/wiki/x/GYB1BQ">migration guide</a>.
+        Update to wcmio-content-package-maven-plugin 2.0.2. This version no longer supports building content packages, see <a href="https://wcm-io.atlassian.net/wiki/x/GYB1BQ">migration guide</a>.
       ]]></action>
       <action type="update" dev="sseifert">
         Update CONGA and CONGA AEM Plugin.
@@ -297,7 +318,7 @@
         Update CONGA, CONGA AEM Plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Update Maven Sling HTL plugin.
@@ -309,13 +330,13 @@
         Introduce "publish" profile to switch deployment settings to publish instance.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Update CONGA AEM plugin.
       </action>
        <action type="update" dev="sseifert">
-        Update to cq Maven plugin 1.1.0.
+        Update to cq-maven-plugin 1.1.0.
       </action>
       <action type="update" dev="sseifert">
         Update to Maven Bundle Plugin 4.2.1.
@@ -390,7 +411,7 @@
         Update CONGA Ansible plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Update Maven Sling plugin.
@@ -414,7 +435,7 @@
         Update CONGA, CONGA AEM and CONGA Ansible plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Update Maven Sling HTL plugin.
@@ -438,7 +459,7 @@
         Update Maven Sling HTL plugin and Maven Bundle plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
     </release>
 
@@ -447,7 +468,7 @@
         Update CONGA AEM plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Update Maven Sling plugin.
@@ -462,7 +483,7 @@
         Update CONGA, CONGA AEM and CONGA Ansible plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update wcm.io Content Package Maven plugin.
+        Update wcmio-content-package-maven-plugin.
       </action>
       <action type="update" dev="sseifert">
         Switch from osgi.annotation to org.osgi.annotation.versioning artifact.
@@ -555,7 +576,7 @@
         Update to wcmio-content-package-maven-plugin 1.6.0.
       </action>
       <action type="update" dev="sseifert">
-        wcm.io Content Package Maven Plugin: Exclude further properties and mixins by default.
+        wcmio-content-package-maven-plugin: Exclude further properties and mixins by default.
       </action>
       <action type="update" dev="sseifert">
         Update CONGA version.
@@ -573,7 +594,7 @@
         Update File Resource System Provider for Maven Sling Plugin.
       </action>
       <action type="update" dev="sseifert">
-        wcm.io Content Package Maven Plugin: Exclude property dam:extracted, dam:sha1 and dc:modified on package download.
+        wcmio-content-package-maven-plugin: Exclude property dam:extracted, dam:sha1 and dc:modified on package download.
       </action>
       <action type="update" dev="sseifert">
         Update to wcmio-content-package-maven-plugin 1.5.2.
