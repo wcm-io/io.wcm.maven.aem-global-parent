@@ -28,6 +28,9 @@
         Update global-parent dependency to 43.
       </action>
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 6.2.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update AEM Analyser plugin.
       </action>
     </release>
