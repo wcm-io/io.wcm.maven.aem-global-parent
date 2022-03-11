@@ -33,6 +33,9 @@
       <action type="update" dev="sseifert">
         Update AEM Analyser plugin.
       </action>
+      <action type="update" dev="sseifert">
+        Update CONGA.
+      </action>
     </release>
 
     <release version="2.0.2" date="2022-01-27">
