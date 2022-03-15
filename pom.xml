@@ -29,7 +29,7 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>43-SNAPSHOT</version>
+    <version>43</version>
     <relativePath />
   </parent>
 
@@ -187,8 +187,8 @@
 ******************************************************************************
 
   Your project is using the Felix Maven Bundle Plugin.
-  
-  Please migrate to bnd-maven-plugin. 
+
+  Please migrate to bnd-maven-plugin.
 
 *********************************************************************
 
@@ -477,7 +477,7 @@
 
         <plugin>
           <groupId>io.wcm.devops.conga</groupId>
-          <version>1.14.5-SNAPSHOT</version>
+          <version>1.14.6</version>
           <artifactId>conga-maven-plugin</artifactId>
           <extensions>true</extensions>
           <dependencies>
