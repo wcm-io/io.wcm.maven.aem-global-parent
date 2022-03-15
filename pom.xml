@@ -517,6 +517,23 @@
           <version>1.1.0</version>
         </plugin>
 
+        <!-- Configure version policy (only for this POM) -->
+        <plugin>
+          <groupId>com.amashchenko.maven.plugin</groupId>
+          <artifactId>gitflow-maven-plugin</artifactId>
+          <inherited>false</inherited>
+          <configuration>
+            <projectVersionPolicyId>OddEvenVersionPolicy</projectVersionPolicyId>
+          </configuration>
+          <dependencies>
+            <dependency>
+              <groupId>org.apache.maven.release</groupId>
+              <artifactId>maven-release-oddeven-policy</artifactId>
+              <version>${maven-release-plugin.version}</version>
+            </dependency>
+          </dependencies>
+        </plugin>
+
       </plugins>
 
     </pluginManagement>
