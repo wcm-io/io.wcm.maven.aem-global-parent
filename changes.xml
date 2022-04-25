@@ -30,6 +30,9 @@
       <action type="update" dev="sseifert">
         Update AEM Analyser plugin.
       </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 44.
+      </action>
     </release>
 
     <release version="2.0.6" date="2022-03-15">

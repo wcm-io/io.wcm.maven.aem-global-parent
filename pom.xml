@@ -29,7 +29,7 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>43</version>
+    <version>44-SNAPSHOT</version>
     <relativePath />
   </parent>
 
@@ -399,7 +399,7 @@
         <plugin>
           <groupId>com.adobe.aem</groupId>
           <artifactId>aemanalyser-maven-plugin</artifactId>
-          <version>1.4.2</version>
+          <version>1.4.6</version>
         </plugin>
 
         <plugin>
