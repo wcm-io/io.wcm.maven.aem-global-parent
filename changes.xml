@@ -31,7 +31,7 @@
         Update AEM Analyser plugin.
       </action>
       <action type="update" dev="sseifert">
-        Update CONGA Ansible Plugin.
+        Update CONGA, CONGA AEM Plugin and CONGA Ansible Plugin.
       </action>
       <action type="update" dev="sseifert">
         Update global-parent dependency to 44.
