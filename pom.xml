@@ -508,6 +508,7 @@
             <password>${sling.vault.password}</password>
             <consoleUserId>${sling.console.user}</consoleUserId>
             <consolePassword>${sling.console.password}</consolePassword>
+            <slingPluginVersion>${sling.sling-maven-plugin.version}</slingPluginVersion>
           </configuration>
         </plugin>
 
