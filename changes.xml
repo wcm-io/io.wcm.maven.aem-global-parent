@@ -34,6 +34,9 @@
         Update to bnd Maven plugins 6.3.1.
       </action>
       <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.1.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 45.
       </action>
     </release>
