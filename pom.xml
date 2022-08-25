@@ -67,7 +67,7 @@
     <sling.vault.publish.password>${sling.publish.password}</sling.vault.publish.password>
 
     <!-- versions -->
-    <sling.sling-maven-plugin.version>2.4.2</sling.sling-maven-plugin.version>
+    <sling.sling-maven-plugin.version>3.0.2</sling.sling-maven-plugin.version>
     <bnd.version>6.3.1</bnd.version>
 
   </properties>
@@ -454,7 +454,7 @@
         <plugin>
           <groupId>io.wcm.maven.plugins</groupId>
           <artifactId>cq-maven-plugin</artifactId>
-          <version>1.1.4</version>
+          <version>1.2.0-SNAPSHOT</version>
           <configuration>
             <slingPluginVersion>${sling.sling-maven-plugin.version}</slingPluginVersion>
             <slingConsoleUrl>${sling.url}/system/console</slingConsoleUrl>
