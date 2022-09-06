@@ -25,6 +25,9 @@
 
     <release version="2.0.16" date="not released">
       <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.1.6.
+      </action>
+      <action type="update" dev="sseifert">
         Update to sling-maven-plugin 3.0.2 and cq-maven-plugin 1.2.0.
       </action>
       <action type="update" dev="sseifert">
