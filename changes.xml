@@ -34,6 +34,9 @@
         Update CONGA.
       </action>
       <action type="update" dev="sseifert">
+        Update AEM Analyser plugin.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 47.
       </action>
     </release>
