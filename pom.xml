@@ -386,7 +386,7 @@
               <!-- Using latest version for AEM cloud services for all AEM projects. This is a good best fit because
                    a) AEM cloud services used somwhat a subset of AEM 6.5.5 nodetypes (excluding some deprecated stuff) and
                    b) node types are very stable and do not change over a long time (it's not longer best practice to use them as it was in the past) -->
-              <version>2020.11.0</version>
+              <version>2022.10.0</version>
             </dependency>
             <dependency>
               <groupId>io.wcm.tooling.nodetypes</groupId>

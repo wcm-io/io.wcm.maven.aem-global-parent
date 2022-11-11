@@ -28,6 +28,9 @@
         Update CONGA AEM plugin.
       </action>
       <action type="update" dev="sseifert">
+        Update aem-nodetypes to 2022.10.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 48.
       </action>
     </release>
