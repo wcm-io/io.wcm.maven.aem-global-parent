@@ -28,6 +28,9 @@
         Update CONGA AEM plugin.
       </action>
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 6.4.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update aem-nodetypes to 2022.10.0.
       </action>
       <action type="update" dev="sseifert">
