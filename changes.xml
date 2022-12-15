@@ -28,6 +28,9 @@
         Update CONGA AEM plugin.
       </action>
       <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.5.8.
+      </action>
+      <action type="update" dev="sseifert">
         Update to bnd Maven plugins 6.4.0.
       </action>
       <action type="update" dev="sseifert">

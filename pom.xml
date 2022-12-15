@@ -399,8 +399,7 @@
         <plugin>
           <groupId>com.adobe.aem</groupId>
           <artifactId>aemanalyser-maven-plugin</artifactId>
-          <!-- Stick with 1.4.16 until https://github.com/adobe/aemanalyser-maven-plugin/issues/175 is fixed -->
-          <version>1.4.16</version>
+          <version>1.5.8</version>
         </plugin>
 
         <plugin>
