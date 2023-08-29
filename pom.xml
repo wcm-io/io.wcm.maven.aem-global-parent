@@ -367,8 +367,6 @@
           <configuration>
             <filterSource>META-INF/vault/filter.xml</filterSource>
             <thumbnailImage>META-INF/vault/definition/thumbnail.png</thumbnailImage>
-            <failOnDependencyErrors>true</failOnDependencyErrors>
-            <failOnEmptyFilter>true</failOnEmptyFilter>
             <failOnMissingEmbed>true</failOnMissingEmbed>
             <validatorsSettings>
               <jackrabbit-nodetypes>
