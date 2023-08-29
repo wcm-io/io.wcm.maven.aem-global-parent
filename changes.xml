@@ -30,6 +30,9 @@
       <action type="update" dev="sseifert">
         Update CONGA AEM plugin.
       </action>
+      <action type="fix" dev="sseifert">
+        Remove failOnMissingEmbed parameter from wcmio-content-package-maven-plugin - it does no longer exist.
+      </action>
     </release>
 
     <release version="2.1.4" date="2023-07-03">

@@ -447,7 +447,6 @@
             <unpackDeleteDirectories>
               <directory>jcr_root</directory>
             </unpackDeleteDirectories>
-            <failOnMissingEmbed>true</failOnMissingEmbed>
           </configuration>
         </plugin>
 
