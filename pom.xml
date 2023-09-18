@@ -29,7 +29,7 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>52</version>
+    <version>53-SNAPSHOT</version>
     <relativePath />
   </parent>
 
@@ -491,7 +491,7 @@
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
               <artifactId>io.wcm.devops.conga.plugins.ansible</artifactId>
-              <version>1.4.3-SNAPSHOT</version>
+              <version>1.4.4</version>
             </dependency>
           </dependencies>
         </plugin>
