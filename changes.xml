@@ -23,6 +23,15 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
+    <release version="2.1.8" date="2023-09-18">
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 53.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA Ansible plugin.
+      </action>
+    </release>
+
     <release version="2.1.6" date="2023-08-31">
       <action type="update" dev="sseifert">
         Update to Jackrabbit filevault-package-maven-plugin 1.3.4.
