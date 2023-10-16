@@ -28,6 +28,9 @@
         Update global-parent dependency to 53.
       </action>
       <action type="update" dev="sseifert">
+        Update biz.netcentric.aem:aem-nodetypes to 2023.10.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update CONGA Ansible plugin.
       </action>
     </release>
