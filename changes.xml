@@ -30,6 +30,9 @@
       <action type="update" dev="sseifert">
         Update biz.netcentric.aem:aem-nodetypes to 2023.10.0.
       </action>
+      <action type="update" dev="sseifert">
+        Update CONGA, CONGA Ansible plugin.
+      </action>
     </release>
 
     <release version="2.1.8" date="2023-09-18">

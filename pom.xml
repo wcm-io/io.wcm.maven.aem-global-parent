@@ -474,7 +474,7 @@
 
         <plugin>
           <groupId>io.wcm.devops.conga</groupId>
-          <version>1.16.2</version>
+          <version>1.16.3-SNAPSHOT</version>
           <artifactId>conga-maven-plugin</artifactId>
           <extensions>true</extensions>
           <dependencies>
@@ -491,7 +491,7 @@
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
               <artifactId>io.wcm.devops.conga.plugins.ansible</artifactId>
-              <version>1.4.4</version>
+              <version>1.4.5-SNAPSHOT</version>
             </dependency>
           </dependencies>
         </plugin>
