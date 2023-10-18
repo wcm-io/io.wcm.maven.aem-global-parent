@@ -29,13 +29,13 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>53</version>
+    <version>54</version>
     <relativePath />
   </parent>
 
   <groupId>io.wcm.maven</groupId>
   <artifactId>io.wcm.maven.aem-global-parent</artifactId>
-  <version>2.1.8</version>
+  <version>2.1.10</version>
   <packaging>pom</packaging>
 
   <name>io.wcm.maven.aem-global-parent</name>
@@ -384,7 +384,7 @@
               <!-- Using latest version for AEM cloud services for all AEM projects. This is a good best fit because
                    a) AEM cloud services used somwhat a subset of AEM 6.5.5 nodetypes (excluding some deprecated stuff) and
                    b) node types are very stable and do not change over a long time (it's not longer best practice to use them as it was in the past) -->
-              <version>2022.10.0</version>
+              <version>2023.10.0</version>
             </dependency>
             <dependency>
               <groupId>io.wcm.tooling.nodetypes</groupId>
@@ -474,7 +474,7 @@
 
         <plugin>
           <groupId>io.wcm.devops.conga</groupId>
-          <version>1.16.2</version>
+          <version>1.16.4</version>
           <artifactId>conga-maven-plugin</artifactId>
           <extensions>true</extensions>
           <dependencies>
@@ -486,19 +486,19 @@
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
               <artifactId>io.wcm.devops.conga.plugins.aem</artifactId>
-              <version>2.19.6</version>
+              <version>2.19.8</version>
             </dependency>
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
               <artifactId>io.wcm.devops.conga.plugins.ansible</artifactId>
-              <version>1.4.4</version>
+              <version>1.4.6</version>
             </dependency>
           </dependencies>
         </plugin>
         <plugin>
           <groupId>io.wcm.devops.conga.plugins</groupId>
           <artifactId>conga-aem-maven-plugin</artifactId>
-          <version>2.19.6</version>
+          <version>2.19.8</version>
           <configuration>
             <serviceURL>${sling.url}/crx/packmgr/service</serviceURL>
             <userId>${sling.vault.user}</userId>
