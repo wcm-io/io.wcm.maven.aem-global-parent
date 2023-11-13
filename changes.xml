@@ -23,6 +23,15 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
+    <release version="2.1.12" date="not released">
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 55.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA Sling plugin.
+      </action>
+    </release>
+
     <release version="2.1.10" date="2023-10-18">
       <action type="update" dev="sseifert">
         Update global-parent dependency to 54.

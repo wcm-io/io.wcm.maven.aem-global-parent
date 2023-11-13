@@ -29,7 +29,7 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>54</version>
+    <version>55-SNAPSHOT</version>
     <relativePath />
   </parent>
 
@@ -481,7 +481,7 @@
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
               <artifactId>io.wcm.devops.conga.plugins.sling</artifactId>
-              <version>1.3.2</version>
+              <version>1.3.3-SNAPSHOT</version>
             </dependency>
             <dependency>
               <groupId>io.wcm.devops.conga.plugins</groupId>
