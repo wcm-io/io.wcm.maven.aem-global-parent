@@ -363,7 +363,7 @@
         <plugin>
           <groupId>org.apache.jackrabbit</groupId>
           <artifactId>filevault-package-maven-plugin</artifactId>
-          <version>1.3.4</version>
+          <version>1.3.6</version>
           <configuration>
             <filterSource>META-INF/vault/filter.xml</filterSource>
             <thumbnailImage>META-INF/vault/definition/thumbnail.png</thumbnailImage>
