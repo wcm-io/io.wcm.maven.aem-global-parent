@@ -25,6 +25,9 @@
 
     <release version="2.1.16" date="not released">
       <action type="update" dev="sseifert">
+        Update to sling-initial-content-transform-maven-plugin 1.1.4.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 56.
       </action>
       <action type="update" dev="sseifert">
