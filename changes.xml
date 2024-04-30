@@ -25,6 +25,9 @@
 
     <release version="2.1.18" date="not released">
       <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.5.10.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 57.
       </action>
     </release>
