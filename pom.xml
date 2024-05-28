@@ -397,7 +397,7 @@
         <plugin>
           <groupId>com.adobe.aem</groupId>
           <artifactId>aemanalyser-maven-plugin</artifactId>
-          <version>1.5.10</version>
+          <version>1.5.12</version>
         </plugin>
 
         <plugin>
