@@ -33,6 +33,9 @@
       <action type="update" dev="sseifert">
         Update global-parent dependency to 57.
       </action>
+      <action type="update" dev="sseifert">
+        Don't remove mixing jcr:referencable and jcr:uuid property when downloading content package to store in git - otherwise assets from sample content packages deployed to AEMaaCS to do not have an Asset ID set.
+      </action>
     </release>
 
     <release version="2.1.16" date="2024-01-26">

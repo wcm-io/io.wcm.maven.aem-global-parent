@@ -420,7 +420,6 @@
               <exclude>jcr\:createdBy</exclude>
               <exclude>jcr\:lastModified</exclude>
               <exclude>jcr\:lastModifiedBy</exclude>
-              <exclude>jcr\:uuid</exclude>
               <exclude>jcr\:isCheckedOut</exclude>
               <exclude>cq\:lastModified</exclude>
               <exclude>cq\:lastModifiedBy</exclude>
@@ -438,7 +437,6 @@
             </excludeProperties>
             <excludeMixins>
               <exclude>mix\:versionable</exclude>
-              <exclude>mix\:referenceable</exclude>
               <exclude>cq\:Taggable</exclude>
               <exclude>cq\:ReplicationStatus.*</exclude>
             </excludeMixins>
