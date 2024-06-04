@@ -29,7 +29,7 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>57-SNAPSHOT</version>
+    <version>57</version>
     <relativePath />
   </parent>
 
@@ -467,7 +467,7 @@
         <plugin>
           <groupId>io.wcm.maven.plugins</groupId>
           <artifactId>nodejs-maven-plugin</artifactId>
-          <version>3.0.7-SNAPSHOT</version>
+          <version>3.0.8</version>
         </plugin>
 
         <plugin>
