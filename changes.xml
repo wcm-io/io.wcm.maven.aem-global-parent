@@ -23,6 +23,21 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
+    <release version="2.1.18" date="2024-06-04">
+      <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.5.12.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to nodejs-maven-plugin 3.0.8.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 57.
+      </action>
+      <action type="update" dev="sseifert">
+        Don't remove mixing jcr:referencable and jcr:uuid property when downloading content package to store in git - otherwise assets from sample content packages deployed to AEMaaCS to do not have an Asset ID set.
+      </action>
+    </release>
+
     <release version="2.1.16" date="2024-01-26">
       <action type="update" dev="sseifert">
         Update to sling-initial-content-transform-maven-plugin 1.1.4.

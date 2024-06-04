@@ -29,13 +29,13 @@
   <parent>
     <groupId>io.wcm.maven</groupId>
     <artifactId>io.wcm.maven.global-parent</artifactId>
-    <version>56</version>
+    <version>57</version>
     <relativePath />
   </parent>
 
   <groupId>io.wcm.maven</groupId>
   <artifactId>io.wcm.maven.aem-global-parent</artifactId>
-  <version>2.1.16</version>
+  <version>2.1.18</version>
   <packaging>pom</packaging>
 
   <name>io.wcm.maven.aem-global-parent</name>
@@ -397,7 +397,7 @@
         <plugin>
           <groupId>com.adobe.aem</groupId>
           <artifactId>aemanalyser-maven-plugin</artifactId>
-          <version>1.5.8</version>
+          <version>1.5.12</version>
         </plugin>
 
         <plugin>
@@ -420,7 +420,6 @@
               <exclude>jcr\:createdBy</exclude>
               <exclude>jcr\:lastModified</exclude>
               <exclude>jcr\:lastModifiedBy</exclude>
-              <exclude>jcr\:uuid</exclude>
               <exclude>jcr\:isCheckedOut</exclude>
               <exclude>cq\:lastModified</exclude>
               <exclude>cq\:lastModifiedBy</exclude>
@@ -438,7 +437,6 @@
             </excludeProperties>
             <excludeMixins>
               <exclude>mix\:versionable</exclude>
-              <exclude>mix\:referenceable</exclude>
               <exclude>cq\:Taggable</exclude>
               <exclude>cq\:ReplicationStatus.*</exclude>
             </excludeMixins>
@@ -469,7 +467,7 @@
         <plugin>
           <groupId>io.wcm.maven.plugins</groupId>
           <artifactId>nodejs-maven-plugin</artifactId>
-          <version>3.0.6</version>
+          <version>3.0.8</version>
         </plugin>
 
         <plugin>
@@ -589,7 +587,7 @@
           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-gpg-plugin</artifactId>
-            <version>3.1.0</version>
+            <version>3.2.4</version>
             <inherited>false</inherited>
             <executions>
               <execution>
@@ -605,7 +603,7 @@
           <plugin>
             <groupId>org.sonatype.plugins</groupId>
             <artifactId>nexus-staging-maven-plugin</artifactId>
-            <version>1.6.8</version>
+            <version>1.7.0</version>
             <inherited>false</inherited>
             <extensions>true</extensions>
             <configuration>
