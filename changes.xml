@@ -23,7 +23,7 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 https://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
-    <release version="2.1.20" date="not released">
+    <release version="2.1.20" date="2024-09-27">
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.6.6.
       </action>
