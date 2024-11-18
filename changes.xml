@@ -27,6 +27,9 @@
       <action type="update" dev="sseifert">
         Update to Jackrabbit filevault-package-maven-plugin 1.4.0.
       </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 59.
+      </action>
     </release>
 
     <release version="2.1.20" date="2024-09-27">
