@@ -67,7 +67,7 @@
     <sling.vault.publish.password>${sling.publish.password}</sling.vault.publish.password>
 
     <!-- versions -->
-    <sling.sling-maven-plugin.version>3.0.2</sling.sling-maven-plugin.version>
+    <sling.sling-maven-plugin.version>3.0.3-SNAPSHOT</sling.sling-maven-plugin.version>
     <bnd.version>6.4.0</bnd.version>
 
   </properties>
@@ -334,17 +334,6 @@
             <slingUrl>${sling.url}/system/console</slingUrl>
             <user>${sling.console.user}</user>
             <password>${sling.console.password}</password>
-            <deployFsResourceBundlePrerequisites>
-              <bundlePrerequisite>
-                <bundles>
-                  <bundle>
-                    <groupId>org.apache.sling</groupId>
-                    <artifactId>org.apache.sling.fsresource</artifactId>
-                    <version>2.2.0</version>
-                  </bundle>
-                </bundles>
-              </bundlePrerequisite>
-            </deployFsResourceBundlePrerequisites>
           </configuration>
         </plugin>
 
