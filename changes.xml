@@ -26,6 +26,9 @@
 
     <release version="2.1.28" date="not released">
       <action type="update" dev="sseifert">
+        Update global-parent dependency to 62.
+      </action>
+      <action type="update" dev="sseifert">
         Update to sling-maven-plugin 3.0.4.
       </action>
     </release>
