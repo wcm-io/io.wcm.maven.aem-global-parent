@@ -31,6 +31,9 @@
       <action type="update" dev="sseifert">
         Update to sling-maven-plugin 3.0.4.
       </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.2.0.
+      </action>
     </release>
 
     <release version="2.1.26" date="2025-01-13">
