@@ -40,6 +40,7 @@
 
   <name>io.wcm.maven.aem-global-parent</name>
   <description>Global parent for Maven artifact hierarchy for AEM projects. Defines AEM-specific plugins and general Maven settings.</description>
+  <url>https://wcm.io/</url>
 
   <scm>
     <connection>scm:git:https://github.com/wcm-io/io.wcm.maven.aem-global-parent.git</connection>
@@ -47,6 +48,26 @@
     <url>https://github.com/wcm-io/io.wcm.maven.aem-global-parent</url>
     <tag>HEAD</tag>
   </scm>
+
+  <organization>
+    <name>wcm.io</name>
+    <url>https://wcm.io</url>
+  </organization>
+
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>wcm.io Community</name>
+      <organization>wcm.io</organization>
+      <organizationUrl>https://wcm.io</organizationUrl>
+    </developer>
+  </developers>
 
   <properties>
 
