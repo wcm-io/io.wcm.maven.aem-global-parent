@@ -26,7 +26,7 @@
 
     <release version="2.1.34" date="not released">
       <action type="update" dev="sseifert">
-        Update CONGA, CONGA AEM plugin, conga-aem-maven-plugin.
+        Update CONGA, CONGA AEM plugin.
       </action>
     </release>
 
