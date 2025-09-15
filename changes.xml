@@ -28,6 +28,12 @@
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.6.12.
       </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.2.2.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA, CONGA AEM plugin.
+      </action>
     </release>
 
     <release version="2.1.36" date="2025-07-25">
