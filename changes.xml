@@ -29,6 +29,9 @@
         Switch minimum Java version for build environment to Java 17. Default version for compilation remains Java 11.
       </action>
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.1.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 70.
       </action>
     </release>
