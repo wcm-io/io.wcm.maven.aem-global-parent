@@ -24,6 +24,21 @@
     xsi:schemaLocation="http://maven.apache.org/changes/2.0.0 https://maven.apache.org/xsd/changes-2.0.0.xsd">
   <body>
 
+    <release version="2.1.38" date="2025-09-22">
+      <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.6.12.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.2.2.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 67.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA, CONGA AEM plugin.
+      </action>
+    </release>
+
     <release version="2.1.36" date="2025-07-25">
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.6.8.
