@@ -34,6 +34,9 @@
       <action type="update" dev="sseifert">
         Update global-parent dependency to 70.
       </action>
+      <action type="update" dev="sseifert">
+        Update CONGA, CONGA AEM plugin, CONGA Sling plugin, CONGA Ansible plugin.
+      </action>
     </release>
 
     <release version="2.1.38" date="2025-09-22">
@@ -47,7 +50,7 @@
         Update global-parent dependency to 67.
       </action>
       <action type="update" dev="sseifert">
-        Update CONGA, CONGA AEM plugin.
+        Update CONGA, CONGA AEM plugin, CONGA Sling plugin, CONGA Ansible plugin.
       </action>
     </release>
 
