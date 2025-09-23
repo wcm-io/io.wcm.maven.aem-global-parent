@@ -32,6 +32,9 @@
         Update to bnd Maven plugins 7.1.0.
       </action>
       <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.4.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 70.
       </action>
       <action type="update" dev="sseifert">
@@ -44,7 +47,7 @@
         Update to AEM Analyser plugin 1.6.12.
       </action>
       <action type="update" dev="sseifert">
-        Update to wcmio-content-package-maven-plugin 2.2.2.
+        Update to wcmio-content-package-maven-plugin 2.3.0.
       </action>
       <action type="update" dev="sseifert">
         Update global-parent dependency to 67.
