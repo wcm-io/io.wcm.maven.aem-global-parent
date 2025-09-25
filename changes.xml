@@ -24,18 +24,36 @@
     xsi:schemaLocation="http://maven.apache.org/changes/2.0.0 https://maven.apache.org/xsd/changes-2.0.0.xsd">
   <body>
 
+    <release version="2.2.0" date="2025-09-25">
+      <action type="update" dev="sseifert">
+        Switch minimum Java version for build environment to Java 17. Default version for compilation remains Java 11.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.1.0.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.4.0.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 71.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA, CONGA AEM plugin, CONGA Sling plugin, CONGA Ansible plugin.
+      </action>
+    </release>
+
     <release version="2.1.38" date="2025-09-22">
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.6.12.
       </action>
       <action type="update" dev="sseifert">
-        Update to wcmio-content-package-maven-plugin 2.2.2.
+        Update to wcmio-content-package-maven-plugin 2.3.0.
       </action>
       <action type="update" dev="sseifert">
         Update global-parent dependency to 67.
       </action>
       <action type="update" dev="sseifert">
-        Update CONGA, CONGA AEM plugin.
+        Update CONGA, CONGA AEM plugin, CONGA Sling plugin, CONGA Ansible plugin.
       </action>
     </release>
 
