@@ -26,6 +26,12 @@
 
     <release version="2.2.6" date="not released">
       <action type="update" dev="sseifert">
+        Update CONGA AEM plugin.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.4.2.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 74.
       </action>
     </release>
