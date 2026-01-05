@@ -26,6 +26,9 @@
 
     <release version="2.2.8" date="not released">
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.2.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 75.
       </action>
     </release>
