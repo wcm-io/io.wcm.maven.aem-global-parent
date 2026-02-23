@@ -24,6 +24,18 @@
     xsi:schemaLocation="http://maven.apache.org/changes/2.0.0 https://maven.apache.org/xsd/changes-2.0.0.xsd">
   <body>
 
+    <release version="2.2.8" date="2026-02-23">
+      <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.2.1.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.6.16.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 75.
+      </action>
+    </release>
+
     <release version="2.2.6" date="2025-12-08">
       <action type="update" dev="sseifert">
         Update CONGA AEM plugin.
