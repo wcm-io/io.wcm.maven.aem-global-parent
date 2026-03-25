@@ -29,7 +29,7 @@
         Update global-parent dependency to 76.
       </action>
       <action type="update" dev="sseifert">
-        Update to bnd Maven plugins 7.2.2.
+        Update to bnd Maven plugins 7.2.3.
       </action>
     </release>
 
