@@ -31,6 +31,9 @@
       <action type="update" dev="sseifert">
         Update to bnd Maven plugins 7.2.3.
       </action>
+      <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.6.16.
+      </action>
     </release>
 
     <release version="2.2.8" date="2026-02-23">
