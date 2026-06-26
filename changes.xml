@@ -24,6 +24,30 @@
     xsi:schemaLocation="http://maven.apache.org/changes/2.0.0 https://maven.apache.org/xsd/changes-2.0.0.xsd">
   <body>
 
+    <release version="2.3.0" date="2026-06-26">
+      <action type="update" dev="sseifert">
+        Switch minimum Java version for build environment to Java 21. Default version for compilation remains Java 11.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 80.
+      </action>
+      <action type="update" dev="sseifert">
+        Update CONGA and CONGA AEM, CONGA Sling, CONGA Ansible plugins.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.4.4, cq-maven-plugin 1.3.0, i18n-maven-plugin 1.4.0, nodejs-maven-plugin 3.1.0.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to AEM Analyser plugin 1.6.24.
+      </action>
+      <action type="update" dev="sseifert">
+        Update biz.netcentric.aem:aem-nodetypes to 2026.06.0.
+      </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 81.
+      </action>
+    </release>
+
     <release version="2.2.10" date="2026-04-17">
       <action type="update" dev="sseifert">
         Update global-parent dependency to 76.
