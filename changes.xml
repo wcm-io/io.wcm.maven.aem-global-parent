@@ -43,6 +43,9 @@
       <action type="update" dev="sseifert">
         Update biz.netcentric.aem:aem-nodetypes to 2026.06.0.
       </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 81.
+      </action>
     </release>
 
     <release version="2.2.10" date="2026-04-17">
