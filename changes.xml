@@ -29,6 +29,9 @@
         Update to AEM Analyser plugin 1.7.2.
       </action>
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.4.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 82.
       </action>
     </release>
