@@ -53,6 +53,9 @@
         Update to AEM Analyser plugin 1.6.24.
       </action>
       <action type="update" dev="sseifert">
+        Update to bnd Maven plugins 7.3.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update biz.netcentric.aem:aem-nodetypes to 2026.06.0.
       </action>
       <action type="update" dev="sseifert">
