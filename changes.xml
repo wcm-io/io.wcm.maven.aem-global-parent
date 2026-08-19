@@ -28,6 +28,9 @@
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.7.2.
       </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 82.
+      </action>
     </release>
 
     <release version="2.3.0" date="2026-06-26">
@@ -35,7 +38,7 @@
         Switch minimum Java version for build environment to Java 21. Default version for compilation remains Java 11.
       </action>
       <action type="update" dev="sseifert">
-        Update global-parent dependency to 80.
+        Update global-parent dependency to 81.
       </action>
       <action type="update" dev="sseifert">
         Update CONGA and CONGA AEM, CONGA Sling, CONGA Ansible plugins.
