@@ -28,6 +28,9 @@
       <action type="update" dev="sseifert">
         Update to AEM Analyser plugin 1.7.12.
       </action>
+      <action type="update" dev="sseifert">
+        Update global-parent dependency to 83.
+      </action>
     </release>
 
     <release version="2.3.2" date="2026-10-13">
