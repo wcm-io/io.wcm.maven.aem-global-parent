@@ -32,6 +32,12 @@
         Update to AEM Analyser plugin 1.7.12.
       </action>
       <action type="update" dev="sseifert">
+        Update to CONGA 1.20.2, CONGA AEM plugin 2.25.0.
+      </action>
+      <action type="update" dev="sseifert">
+        Update to wcmio-content-package-maven-plugin 2.6.0.
+      </action>
+      <action type="update" dev="sseifert">
         Update global-parent dependency to 83.
       </action>
     </release>
